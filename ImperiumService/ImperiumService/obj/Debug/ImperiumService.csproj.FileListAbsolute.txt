@@ -1,0 +1,6 @@
+C:\Projekty\TIO\tio-wcf\ImperiumService\ImperiumService\bin\Debug\ImperiumService.dll.config
+C:\Projekty\TIO\tio-wcf\ImperiumService\ImperiumService\bin\Debug\ImperiumService.dll
+C:\Projekty\TIO\tio-wcf\ImperiumService\ImperiumService\bin\Debug\ImperiumService.pdb
+C:\Projekty\TIO\tio-wcf\ImperiumService\ImperiumService\obj\Debug\ImperiumService.dll
+C:\Projekty\TIO\tio-wcf\ImperiumService\ImperiumService\obj\Debug\ImperiumService.pdb
+C:\Projekty\TIO\tio-wcf\ImperiumService\ImperiumService\obj\Debug\ImperiumService.csprojResolveAssemblyReference.cache

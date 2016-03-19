@@ -1,0 +1,8 @@
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\WcfServiceLibrary1\bin\Debug\CosmicAdventureDTO.dll
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\WcfServiceLibrary1\bin\Debug\CosmicAdventureDTO.pdb
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

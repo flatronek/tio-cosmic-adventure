@@ -1,0 +1,5 @@
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\CosmicAdventureDTO\bin\Debug\CosmicAdventureDTO.dll
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\CosmicAdventureDTO\bin\Debug\CosmicAdventureDTO.pdb
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.csprojResolveAssemblyReference.cache
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.dll
+C:\Projekty\TIO\tio-wcf\CosmicAdventureDTO\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.pdb

@@ -1,0 +1,6 @@
+C:\Projekty\TIO\tio-wcf\CosmosAdventureClient\CosmosAdventureClient\bin\Debug\CosmosAdventureClient.exe.config
+C:\Projekty\TIO\tio-wcf\CosmosAdventureClient\CosmosAdventureClient\bin\Debug\CosmosAdventureClient.exe
+C:\Projekty\TIO\tio-wcf\CosmosAdventureClient\CosmosAdventureClient\bin\Debug\CosmosAdventureClient.pdb
+C:\Projekty\TIO\tio-wcf\CosmosAdventureClient\CosmosAdventureClient\obj\Debug\CosmosAdventureClient.csprojResolveAssemblyReference.cache
+C:\Projekty\TIO\tio-wcf\CosmosAdventureClient\CosmosAdventureClient\obj\Debug\CosmosAdventureClient.exe
+C:\Projekty\TIO\tio-wcf\CosmosAdventureClient\CosmosAdventureClient\obj\Debug\CosmosAdventureClient.pdb
